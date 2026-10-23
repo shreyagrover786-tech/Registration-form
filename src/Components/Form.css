@@ -1,0 +1,12 @@
+.save-btn {
+    background-color: chartreuse;
+    color: black;
+    padding: 6px 25px;
+    border: 1px solid;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.save-btn:hover {
+    background-color: darkkhaki;
+}
